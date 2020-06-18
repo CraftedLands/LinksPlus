@@ -1,6 +1,6 @@
 # LinksPlus Minecraft Plugin
 
-LinksPlus is a minecraft plugin that allows your players to see your servers links.
+LinksPlus is a minecraft plugin that allows your players to access servers links from in game.
 
 # Features
   - Link your Discord, Youtube, Donation site, Website, Store, Twitch or anything else you may think of!
