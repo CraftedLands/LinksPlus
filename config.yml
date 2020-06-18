@@ -1,0 +1,24 @@
+#  _      _       _              
+# | |    (_)     | |         _   
+# | |     _ _ __ | | _____ _| |_ 
+# | |    | | '_ \| |/ / __|_   _|
+# | |____| | | | |   <\__ \ |_|  
+# |______|_|_| |_|_|\_\___/      
+#
+# Plugin by Riverbug07 - https://www.spigotmc.org/members/riverbug07.787255/
+#
+# DO NOT USE RELOAD AS A COMMAND NAME
+#
+# --- Config ---
+                                
+links:
+    discord: #The name of the site for the command - /link [name]
+      name: 'Discord' #The name of the site to be used in chat - Check out our Discord
+      link: 'https://discord.gg' #The url of the site that can be clicked in chat
+    website:
+      name: 'Website'
+      link: 'https://yoursite.com'
+
+# Add more here!
+#
+# --- End of Config ---
