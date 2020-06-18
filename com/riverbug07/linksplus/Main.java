@@ -164,9 +164,3 @@
 /* 164 */     return true;
 /*     */   }
 /*     */ }
-
-
-/* Location:              E:\Users\Rory Neill - HDD\Downloads\LinksPlus-1.0.1.jar!\com\riverbug07\linksplus\Main.class
- * Java compiler version: 8 (52.0)
- * JD-Core Version:       1.1.3
- */
