@@ -1,1 +1,1 @@
-# linksplus
+# LinksPlus Minecraft Plugin
